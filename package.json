@@ -1,0 +1,20 @@
+{
+  "name": "@dhavalkenisatellite-code/hello-npm",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/dhavalkenisatellite-code/hello-npm#readme",
+  "bugs": {
+    "url": "https://github.com/dhavalkenisatellite-code/hello-npm/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhavalkenisatellite-code/hello-npm.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  }
+}
